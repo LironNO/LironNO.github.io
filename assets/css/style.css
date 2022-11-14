@@ -3344,7 +3344,7 @@ nav.nav-menu-show {
     background-size: cover;
     background-repeat: no-repeat
 }
-
+/*
 @media only screen and (min-width: 768px) and (max-width: 991px) {
     .experience-area {
         margin-top: -10px
@@ -3363,7 +3363,7 @@ nav.nav-menu-show {
         margin-top: -10px
     }
 }
-
+*/
 .experience-area .caption-overlay {
     position: absolute;
     content: "";
