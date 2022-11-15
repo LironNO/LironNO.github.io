@@ -205,5 +205,3 @@ const sr = ScrollReveal({
 
 sr.reveal(`.container`)
 ScrollReveal().reveal(`.slider-area`, { interval: 100 })
-sr.reveal(`.about__data, .discount__img`, { origin: 'left' })
-sr.reveal(`.about__img, .discount__data`, { origin: 'right' })
